@@ -118,7 +118,7 @@
     };
 
     $.fn.mspopup.defaults = {
-        'width': 500,
+        'width': 410,
         'closable': true,
         'autoOpen': false,
         'onShow': function () {},
